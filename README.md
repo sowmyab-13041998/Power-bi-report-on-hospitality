@@ -5,4 +5,9 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
+A Dashboard Designed to provide Revenue insights for an  Hospitality Domain.
+A few Metrics such as RevPAR, ADR, Occupancy %, SRN, DSRN, Realization, URN, BRN, Revenue, Cancellation, Capacity were thoroughly understood to utilize the true value of the data.
+A Dynamic Dashboard was designed, to capture in-depth analysis of Pricing, Revenue, occupancy trends, a drill down analysis by region, individual properties, booking channels were provided to plan strategic move and regain the market share and revenue. 
+Implementing stakeholders’ thoughts into Dashboard through Domain Knowledge and Communication was Achieved.
+
 https://www.novypro.com/project/sowmya13041998novyprocom
